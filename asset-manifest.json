@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Sbok-66/analyst_portfolio.git/static/css/main.0551b192.css",
-    "main.js": "/Sbok-66/analyst_portfolio.git/static/js/main.8d72d6ec.js",
-    "index.html": "/Sbok-66/analyst_portfolio.git/index.html",
-    "main.0551b192.css.map": "/Sbok-66/analyst_portfolio.git/static/css/main.0551b192.css.map",
-    "main.8d72d6ec.js.map": "/Sbok-66/analyst_portfolio.git/static/js/main.8d72d6ec.js.map"
+    "main.css": "/analyst_portfolio/static/css/main.0551b192.css",
+    "main.js": "/analyst_portfolio/static/js/main.8d72d6ec.js",
+    "index.html": "/analyst_portfolio/index.html",
+    "main.0551b192.css.map": "/analyst_portfolio/static/css/main.0551b192.css.map",
+    "main.8d72d6ec.js.map": "/analyst_portfolio/static/js/main.8d72d6ec.js.map"
   },
   "entrypoints": [
     "static/css/main.0551b192.css",
