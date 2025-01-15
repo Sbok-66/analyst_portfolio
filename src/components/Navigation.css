@@ -1,0 +1,21 @@
+.nav-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex; /* Use flexbox for horizontal alignment */
+    justify-content: center; /* Center the links */
+  }
+
+  .nav-item {
+    margin: 0 15px; /* Add some space between links */
+  }
+
+  .nav-item a {
+    text-decoration: none;
+    color: #333; /* Example link color */
+    font-weight: bold;
+  }
+
+  .nav-item a:hover {
+    text-decoration: underline;
+  }

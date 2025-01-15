@@ -1,0 +1,21 @@
+.header {
+    background-color: #f0f0f0; /* Example background color */
+    padding: 20px 0;
+    text-align: center;
+  }
+  
+  .container {
+    max-width: 960px; /* Example max-width */
+    margin: 0 auto;
+    padding: 0 20px;
+  }
+  
+  .site-title {
+    font-size: 2em;
+    margin-bottom: 10px;
+  }
+  
+  .tagline {
+    font-size: 1.2em;
+    color: #555; /* Example text color */
+  }

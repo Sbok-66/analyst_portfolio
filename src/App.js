@@ -1,9 +1,16 @@
+import React from 'react';
+import Header from './components/Header';
+import Footer from './components/Footer';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      <h1>My Data Analyst Portfolio</h1>
+      <Header />
+      <main>
+        {/* Content of other sections will go here */}
+      </main>
+      <Footer />
     </div>
   );
 }
