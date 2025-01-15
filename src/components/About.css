@@ -1,0 +1,24 @@
+.about {
+    padding: 40px 0;
+    background-color: #f8f8f8; /* Optional background color */
+  }
+  
+  .about-content {
+    display: flex; /* Use flexbox to align text and image side-by-side */
+    align-items: center; /* Vertically center content */
+  }
+  
+  .about-text {
+    flex: 1; /* Occupy most of the space */
+    padding-right: 40px; /* Add some space between text and image */
+  }
+  
+  .about-image {
+    flex: 0 0 200px; /* Fixed width for the image */
+  }
+  
+  .about-image img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 50%; /* Make the image circular */
+  }

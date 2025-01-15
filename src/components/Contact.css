@@ -1,0 +1,36 @@
+.contact {
+    padding: 40px 0;
+    background-color: #f8f8f8; /* Optional background color */
+  }
+  
+  .contact-content {
+    text-align: center; /* Center align the content */
+  }
+  
+  .contact-links {
+    list-style: none;
+    padding: 0;
+    margin: 20px 0;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .contact-links li {
+    margin: 0 15px;
+  }
+  
+  .contact-links a {
+    text-decoration: none;
+    color: #333;
+    font-size: 1.2em;
+  }
+  
+  .contact-links a:hover {
+    color: #0077cc; /* Example hover color */
+  }
+  
+  /* Font Awesome icon styles */
+  .contact-links .fa-envelope,
+  .contact-links .fa-linkedin {
+    margin-right: 8px;
+  }
